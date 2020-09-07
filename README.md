@@ -2,7 +2,9 @@
 
 ## 原网站地址：https://demo.realworld.io/#/ ##
 
-## 数据接口地址：https://conduit.productionready.io/ ##
+## 数据接口地址：https://conduit.productionready.io/api ##
+
+## 数据接口文档：https://github.com/gothinkster/realworld/tree/master/api ##
 
 ## 项目访问地址：http://49.234.12.142:3000/ ##
 
